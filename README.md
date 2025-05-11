@@ -8,20 +8,12 @@ This project uses a deep learning model — **LSTM (Long Short-Term Memory)** �
 - LSTM model built with Keras/TensorFlow
 - Forecast visualization and evaluation
 
-## 🧰 Technologies Used
+## 🧰 Packages Used
 - Python 3
 - `pandas`, `numpy` for data processing
 - `matplotlib`, `seaborn` for visualization
 - `TensorFlow` and `Keras` for deep learning
 
-## 📂 Project Structure
-```
-.
-├── 11. lstm_weather.ipynb     # Main notebook
-├── README.md                  # Project documentation
-├── LICENSE                    # MIT License
-└── .gitignore                 # Common exclusions
-```
 
 ## 🧠 Model Architecture
 - Input: Past N days of temperature data
